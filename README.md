@@ -8,7 +8,9 @@
 Вытянутые бочонки убираем в сторону (т.е. каждое число может выпасть только 1 раз).
 ## Скрин работы программы:
 ![image](https://user-images.githubusercontent.com/90550031/147226690-c4e28bde-7d4d-4cfd-8416-63b8daea008b.png)
+
 ![image](https://user-images.githubusercontent.com/90550031/147226795-f898afae-174d-43be-9b5a-79d2f93b4e6a.png)
+
 ![image](https://user-images.githubusercontent.com/90550031/147227078-2bc96c2c-5098-48c9-ade4-4fd53227a9ac.png)
 ![image](https://user-images.githubusercontent.com/90550031/147227121-365967d3-1ca0-4f48-add9-fe77f06484e0.png)
 ## Как запустить программу:
